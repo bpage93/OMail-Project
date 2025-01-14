@@ -1,0 +1,33 @@
+body {
+    background-color: #d9dadc;
+  }
+  .main {
+    background-color: #ffffff;
+    margin: 0 auto;
+    width: 80%;
+    padding: 20px 40px;
+  }
+  header {
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  nav {
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    
+
+  }
+
+  nav a {
+    text-decoration: none;
+    color: black;
+  }
+
+ header button {
+    border-radius: 30px auto;
+
+  }
